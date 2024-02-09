@@ -71,7 +71,7 @@ from langchain.vectorstores import FAISS
 
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "OPEN AI KEY"
 
 
 # In[50]:
