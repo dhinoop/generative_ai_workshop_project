@@ -3,3 +3,4 @@
 #Directory name used in the code is "info"
 
 #Two text files used.
+#football.txt & cristiano.txt
